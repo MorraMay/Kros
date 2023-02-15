@@ -8,11 +8,11 @@
 }
 .container {
   max-width: 1100px;
-  background-color: rgb(67, 63, 63); 
+  background-color: rgb(21, 209, 226); 
   margin: 10px auto;
   padding: 40px;
 }
- .card {
+.card {
   margin: 0 auto;
   background-color: #fff;
   border-radius: 30px;
